@@ -1,0 +1,31 @@
+h1{
+  font-size: 36;
+  font-family: sans-serif;
+  color: lightblue;
+  border-bottom: 6px solid lightblue;
+  background-color: darkgrey;
+}
+
+body
+  {
+    background-image: url("../img/Background.jpg");
+  }
+
+h2{
+  color: white;
+  font-style: oblique;
+}
+
+h3{
+  color: white;
+  font-style: oblique;
+}
+
+p{
+  color: white;
+}
+
+ul{
+  color: white;
+  font-style: oblique;
+}
